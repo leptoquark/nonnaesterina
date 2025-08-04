@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "23076296064",
+    "project_id": "nonna-esterina",
+    "storage_bucket": "nonna-esterina.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23076296064:android:350c44557d904fdaaedd65",
+        "android_client_info": {
+          "package_name": "it.leptosoft.nonnaesterina"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23076296064-qdugfmn74vqpt94cnftt4qdper8mh42m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCErzemZMP0jEPrKVVsba0XnxWSlfVKFFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23076296064-qdugfmn74vqpt94cnftt4qdper8mh42m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,89 @@
+{
+    "nome": "Ricettario",
+    "ricette": [
+        {
+            "nome": "Vitello tonnato",
+            "descrizione": "Una pietanza appetitosa che si gusta fredda ed è perfetta per i pranzi e le cene estive",
+            "preparazione": "Per prima cosa, legate il vitello ben stretto con uno spago da cucina; inseritelo in un tegame e coprirlo d'acqua.\nAggiungete le carote precedentemente mondate e tagliate a tocchetti,  la costa di sedano ridotta in 2-3 segmenti, la cipolla a spicchi, gli odori e il sale. \n\nA questo punto, coprite tutto con vino e acqua e accedete il fuoco. facendo bollire rapidamente.\nUna volta portato ad ebollizione, abbassate la fiamma e fate sbollire per un'ora e trenta. \nLasciate freddare nella stessa acqua e successivamente tagliate il vitello a fettine sottilissime.\nTritate nel frullatore il tonno scolato dall'olio, i capperi e le acciughe, preparate la maionese con le uova, unitela al composto tritato e immergetevi la carne.\nInfine, decorate con capperi e limone.",
+            "ingredienti": "Per 6 persone\n\nPer il vitello\n\n1 kg di girello di vitello\n1 cipolla\n1 costa di sedano\n2 carote\n2 foglie di alloro\n2 chiodi di garofano\n1 litro di acqua\nsale\npepe\n\nPer la salsa tonnata \n\n4 tuorli d'uovo\n250 grammi di tonno sott'olio\n1 cucchiaio di capperi\n2/3 acciughe salate\nolio di semi e di oliva\n1 bicchiere di vino bianco secco\nlimone a fette",
+            "immagine": "vitellotonnato.jpg",
+            "classificazione": {
+                "durata": "2 ore",
+                "difficolta": "Media",
+                "tipo": "secondo"
+            }
+        },
+        {
+            "nome": "Baccalà in umido",
+            "descrizione": "Un secondo piatto semplice ma sfizioso, con un condimento ricco e molto saporito",
+            "preparazione": "Innanzitutto, immergete il baccalà in abbondante acqua fredda per 24 ore. Successivamente, scolatelo, tagliatelo a tocchetti regolari e infarinatelo. \n\nProcuratevi poi una padella bella grande e capiente per preparare un soffritto con olio, aglio, cipolla e pomodori tagliati a pezzetti. \n\nCondite poi con sale, pepe e cuocete con il coperchio per circa 20 minuti. A cottura quasi ultimata sfumate con vino bianco.",
+            "ingredienti": "Per 4 persone\n\n500 grammi di baccalà dissalato\n50 grammi di farina 00\nolio extravergine di oliva\n200 grammi di cipolla\n1 spicchio d'aglio\n600 grammi di pomodori\n1 bicchiere di vino bianco\nsale\npepe",
+            "immagine": "baccalainumido.jpg",
+            "classificazione": {
+                "durata": "50 minuti",
+                "difficolta": "Facile",
+                "tipo": "secondo"
+            }
+        },
+        {
+            "nome": "Pomodori con riso e patate",
+            "descrizione": "Un piatto gustoso e sostanzioso, da mangiare sia caldo che freddo",
+            "preparazione": "Per prima cosa, tagliate la calotta dei pomodori che svuoterete: conservate il tutto e passate al setaccio. Tritate finemente tutti gli altri ingredienti e uniteli al sugo passato e al riso. Condite poi con mezzo bicchiere di olio, un pochino di sale e pepe. Riempite dunque i pomodori a metà e copriteli con la colotta. Infine, inseriteli in una teglia da forno, contornandoli con spicchi di patate. Irrorateli con il restante olio e con quattro cucchiai d'acqua. Cuocere al forno per almeno 30 minuti.",
+            "ingredienti": "Per 4 persone\n\n8 pomodori ben maturi di media grandezza\n12 cucchiai di riso arborio\ndue filetti di acciuga\n1 spicchio d'aglio\n1 pizzico di origano\nqualche foglia di menta\nprezzemolo\nbasilico\nuna manciata di parmigiano grattugiato\n1 bicchiere di olio\n4 grosse patate\nsale\npepe",
+            "immagine": "pomodorialriso.jpg",
+            "classificazione": {
+                "durata": "45 minuti",
+                "difficolta": "Facile",
+                "tipo": "primo"
+            }
+        },
+        {
+            "nome": "Caponata",
+            "descrizione": "Un antipasto (o contorno se preferite) ricco e saporito, dal sapore agrodolce",
+            "preparazione": "Tagliate le melanzane a dadini e fatele riposare. Nel frattempo friggete le coste di sedano. Una volta fritte, togliete dalla padella quasi tutto l'olio e rosolare la cipolla, tagliata a fettine sottilissime, insieme ai pomodori pelati.\nDopo 10 minuti aggiungete: zucchero, aceto rosso, olive, capperi, pinoli, uvetta, sedano, melanzane, sale e pepe. Infine, cuocete per 15 minuti e fate raffreddare.",
+            "ingredienti": "Per 4 persone\n\n650 grammi di melanzane\n40 grammi di olvie verdi snocciolate\nun cucchiaio di capperi\nun cucchiaio di pinoli\n200 grammi di pomodori pelati\n1 cucchiaio di uvetta sultanina\n1 cucchiaio di zucchero\n1 quarto di bicchiere di aceto rosso\nuna cipolla\n4 coste di sedano\nolio extravergine di oliva\nsale\npepe",
+            "immagine": "caponata.jpg",
+            "classificazione": {
+                "durata": "40 minuti",
+                "difficolta": "Facile",
+                "tipo": "contorno"
+            }
+        },
+        {
+            "nome": "Mirto",
+            "descrizione": "Il liquore tipico della Sardegna, ottimo come digestivo dopo pasto",
+            "preparazione": "Inserite le bacche di mirto insieme all’alcol in un recipiente a chiusura ermetica. Assicuratevi che l’alcol copra tutte le bacche e lasciate riposare per circa 40 giorni. \nSuccessivamente, scolate le bacche e spremetele per estrarne il succo. \nFate bollire l’acqua e aggiungete lo zucchero. \nAppena lo sciroppo di cqua e zucchero si sarà raffreddato completamente, aggiungetelo all’alcol aromatizzato con le bacche di mirto ed ecco che il vostro liquore sarà pronto. Un consiglio: il mirto freddo è ancora più buono!",
+            "ingredienti": "\n\n1 kg di mirto\n1 litro di alcol\n1 litro di acqua\n500 grammi di zucchero",
+            "immagine": "mirto.jpg",
+            "classificazione": {
+                "durata": "40 minuti",
+                "difficolta": "Media",
+                "tipo": "amaro"
+            }
+        },
+        {
+            "nome": "Cannelloni al forno",
+            "descrizione": "Un grande classico della cucina italiana che piace a tutti, grandi e piccini",
+            "preparazione": "Cuocete gli spinaci al dente e dopo averli strizzati, uniteli a: certosa, metà parmigiano, uova, noce moscata e sale. Amalgamate bene il tutto, riempite i cannelloni e disponeteli in una pirofila imburrata. Cospargete il resto del parmigiano sopra, distribuite i fiocchetti di burro e cuocete in forno caldo (180 gradi per 30 minuti).",
+            "ingredienti": "Per 6 persone\n\n500 grammi di cannelloni\n350 grammi di spinaci\n300 grammi di certosa\n100 grammi di parmigiano\n3 uova\n50 grammi di burro\nnoce moscata\nsale\n\n",
+            "immagine": "cannellonialforno.jpg",
+            "classificazione": {
+                "durata": "30 minuti",
+                "difficolta": "Facile",
+                "tipo": "primo"
+            }
+        },
+        {
+            "nome": "Nocino",
+            "descrizione": "Dal gusto forte e aromatico,  racchiude tutto il gusto e l’autenticità di un’antica tradizione italiana",
+            "preparazione": "Tagliate le noci in 4 parti e mettetele in un barattolo (con chiusura ermetica) con alcol, acqua, zucchero, chiodi di garofano e cannella. \nLasciate riposare al sole per 50 giorni, avendo cura di scuotere il barattolo in modo tale che lo zucchero si sciolga.\nDecorsi 50 giorni, potete filtrare il liquore e metterlo in bottiglia.\n",
+            "ingredienti": "30 noci \n(da raccogliere entro il 24 giugno, San Giovanni)\n1,8 kg di alcol\n1 litro di acqua\n1,700 kg di zucchero\n6/7 chiodi di garofano\n3 grammi di cannella",
+            "immagine": "nocino.jpg",
+            "classificazione": {
+                "durata": "30 minuti",
+                "difficolta": "Media",
+                "tipo": "amaro"
+            }
+        }
+    ]
+}

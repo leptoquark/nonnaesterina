@@ -1,0 +1,161 @@
+{
+    "nome": "Ricettario",
+    "ricette": [
+        {
+            "nome": "Vitello tonnato",
+            "descrizione": "Una pietanza appetitosa che si gusta fredda ed è perfetta per i pranzi e le cene estive",
+            "preparazione": "Per prima cosa, legate il vitello ben stretto con uno spago da cucina; inseritelo in un tegame e coprirlo d'acqua.\nAggiungete le carote precedentemente mondate e tagliate a tocchetti, la costa di sedano ridotta in 2-3 segmenti, la cipolla a spicchi, gli odori, il sale. A questo punto, coprite tutto con vino e acqua e accedete il fuoco, facendo bollire rapidamente.\nUna volta portato ad ebollizione, abbassate la fiamma e fate sbollire per un'ora e trenta.\nLasciate freddare nella stessa acqua e successivamente tagliate il vitello a fettine sottilissime.\nTritate nel frullatore il tonno scolato dall'olio, i capperi e le acciughe, preparate la maionese con le uova, unitela al composto tritato e immergetevi la carne.\nInfine, decorate con capperi e limone.",
+            "ingredienti": "Per 6 persone\n\nPer il vitello\n\t1 kg di girello di vitello\n\t1 cipolla\n\t1 costa di sedano\n\t2 carote\n\t2 foglie di alloro\n\t2 chiodi di garofano\n\t1 litro di acqua\n\tsale\n\tpepe\n\nPer la salsa tonnata\n\t4 tuorli d'uovo\n\t250 grammi di tonno sott'olio\n\t1 cucchiaio di capperi\n\t2/3 acciughe salate\n\tolio di semi e di oliva\n\t1 bicchiere di vino bianco secco\n\tlimone a fette",
+            "immagine": "vitellotonnato.jpg",
+            "classificazione": {
+                "durata": "2 Ore",
+                "difficolta": "Media",
+                "tipo": "secondo"
+            }
+        },
+        {
+            "nome": "Baccalà in umido",
+            "descrizione": "Un secondo piatto semplice ma sfizioso, con un condimento ricco e molto saporito",
+            "preparazione": "Innanzitutto, immergete il baccalà in abbondante acqua fredda per 24 ore. Successivamente, scolatelo, tagliatelo a tocchetti regolari e infarinatelo. Procuratevi poi una padella bella grande e capiente per preparare un soffritto con olio, aglio, cipolla e pomodori tagliati a pezzetti. Condite poi con sale, pepe e cuocete con il coperchio per circa 20 minuti. A cottura quasi ultimata sfumate con vino bianco.",
+            "ingredienti": "Per 4 persone\n\t- 500 grammi di baccalà dissalato\n\t- 50 grammi di farina 00\n\t- olio extravergine di oliva: q.b.\n\t- 200 grammi di cipolla\n\t- uno spicchio d'aglio\n\t- 600 grammi di pomodori\n\t- un bicchiere di vino bianco\n\t- sale: q.b.\n\t- pepe: q.b.",
+            "immagine": "baccalainumido.jpg",
+            "classificazione": {
+                "durata": "50 Minuti",
+                "difficolta": "Facile",
+                "tipo": "secondo"
+            }
+        },
+        {
+            "nome": "Spaghetti alla Carbonara",
+            "descrizione": "Un classico della cucina italiana, semplice ma ricco di sapore",
+            "preparazione": "Cuocete gli spaghetti in acqua salata. Nel frattempo, in una ciotola mescolate i tuorli con il pecorino grattugiato e il pepe. In una padella, fate rosolare il guanciale fino a renderlo croccante. Scolate la pasta e unitela al guanciale. Spegnete il fuoco e versate il composto di uova e pecorino, mescolando rapidamente per ottenere una consistenza cremosa.",
+            "ingredienti": "Per 4 persone\n\t- 400 grammi di spaghetti\n\t- 4 tuorli d'uovo\n\t- 150 grammi di guanciale\n\t- 100 grammi di pecorino romano\n\t- pepe nero",
+            "immagine": "carbonara.jpg",
+            "classificazione": {
+                "durata": "30 Minuti",
+                "difficolta": "Facile",
+                "tipo": "primo"
+            }
+        },
+        {
+            "nome": "Patate al forno",
+            "descrizione": "Un contorno classico, semplice e gustoso",
+            "preparazione": "Lavate e tagliate le patate a pezzi. Condite con olio, sale, pepe e rosmarino. Disponetele su una teglia rivestita di carta forno e cuocete a 200°C per circa 45 minuti o finché risultano dorate e croccanti.",
+            "ingredienti": "Per 4 persone\n\t- 1 kg di patate\n\t- olio extravergine di oliva\n\t- sale\n\t- pepe\n\t- rosmarino",
+            "immagine": "patatealforno.jpg",
+            "classificazione": {
+                "durata": "45 Minuti",
+                "difficolta": "Facile",
+                "tipo": "contorno"
+            }
+        },
+        {
+            "nome": "Tiramisù",
+            "descrizione": "Un dolce italiano a base di mascarpone, caffè e savoiardi",
+            "preparazione": "Preparate il caffè e lasciatelo raffreddare. Montate i tuorli con lo zucchero fino ad ottenere una crema chiara e spumosa. Aggiungete il mascarpone e mescolate bene. Inzuppate i savoiardi nel caffè e disponeteli in una teglia, alternando strati di crema al mascarpone e savoiardi. Spolverate con cacao amaro e lasciate riposare in frigo per almeno 3 ore.",
+            "ingredienti": "Per 6 persone\n\t- 500 grammi di mascarpone\n\t- 4 uova\n\t- 100 grammi di zucchero\n\t- 300 grammi di savoiardi\n\t- 1 tazza di caffè\n\t- cacao amaro",
+            "immagine": "tiramisu.jpg",
+            "classificazione": {
+                "durata": "3 Ore",
+                "difficolta": "Media",
+                "tipo": "dolce"
+            }
+        },
+        {
+            "nome": "Amaro alle erbe",
+            "descrizione": "Un digestivo fatto in casa a base di erbe aromatiche",
+            "preparazione": "Raccogliete le erbe aromatiche e mettetele in infusione in alcol puro per almeno 20 giorni, agitandole di tanto in tanto. Filtrate e aggiungete uno sciroppo di zucchero e acqua. Lasciate riposare per altri 30 giorni prima di consumare.",
+            "ingredienti": "Per 1 litro di amaro\n\t- 500 ml di alcol puro\n\t- 1 litro di acqua\n\t- 500 grammi di zucchero\n\t- una miscela di erbe aromatiche (es. menta, timo, camomilla, genziana)",
+            "immagine": "amaroalleerbe.jpg",
+            "classificazione": {
+                "durata": "50 Giorni",
+                "difficolta": "Difficile",
+                "tipo": "amaro"
+            }
+        },
+        {
+          "nome": "Pane Carasau",
+          "descrizione": "Il pane sottile e croccante della tradizione sarda, ottimo come accompagnamento",
+          "preparazione": "Mescolate farina di grano duro e acqua con un pizzico di sale per ottenere un impasto liscio. Lasciatelo riposare per mezz'ora, poi dividetelo in sfoglie sottilissime. Cuocetele in forno molto caldo finché non diventano croccanti.",
+          "ingredienti": "Per 4 persone\n\t- 500 grammi di farina di grano duro\n\t- 300 ml di acqua\n\t- sale",
+          "immagine": "panecarasau.jpg",
+          "classificazione": {
+              "durata": "1 Ora",
+              "difficolta": "Media",
+              "tipo": "contorno"
+          }
+      },
+      {
+          "nome": "Fregula con Arselle",
+          "descrizione": "Un piatto di pasta tipica sarda con arselle fresche (vongole), dal sapore unico di mare",
+          "preparazione": "In una padella capiente, fate aprire le arselle con un filo d'olio e uno spicchio d'aglio. Rimuovetele e tenete da parte il liquido di cottura. Aggiungete la fregula nella stessa padella e tostatela leggermente. Unite il liquido delle arselle, pomodorini e brodo caldo poco alla volta fino a cottura. Infine, aggiungete le arselle e prezzemolo.",
+          "ingredienti": "Per 4 persone\n\t- 300 grammi di fregula\n\t- 500 grammi di arselle (vongole)\n\t- pomodorini\n\t- prezzemolo\n\t- brodo di pesce\n\t- aglio\n\t- olio extravergine d'oliva",
+          "immagine": "fregulaarselle.jpg",
+          "classificazione": {
+              "durata": "45 Minuti",
+              "difficolta": "Media",
+              "tipo": "primo"
+          }
+      },
+       {
+               "nome": "Culurgiones",
+               "descrizione": "Un piatto della tradizione sarda che affonda le sue radici nella Gallura. I Culurgiones sono ravioli dal ripieno cremoso di patate, pecorino e menta, con una pasta sottile e setosa che si chiude a spiga, come a racchiudere un tesoro. Il profumo di menta fresca e pecorino si fonde perfettamente nel ripieno, mentre il condimento semplice a base di sugo di pomodoro e basilico ne esalta i sapori genuini.",
+               "preparazione": "Iniziate preparando la pasta: su una spianatoia, disponete la semola di grano duro a fontana e aggiungete un po’ d’acqua tiepida. Impastate energicamente fino a ottenere un composto elastico e liscio. Lasciate riposare la pasta per almeno 30 minuti, coperta da un panno umido. \n\nIntanto, lessate le patate in abbondante acqua salata finché non risultano morbide al tatto. Sbucciatele ancora calde e schiacciatele in una ciotola capiente. Aggiungete il pecorino grattugiato, la menta tritata finemente, un pizzico di sale e pepe, mescolando fino a ottenere un ripieno omogeneo e profumato. \n\nStendete la pasta sottilmente e ricavate dei cerchi con un coppapasta. Ponete al centro di ogni cerchio un cucchiaino di ripieno e chiudete il raviolo formando una piccola spiga. \n\nPortate a ebollizione una pentola d’acqua salata e cuocete i culurgiones finché non salgono in superficie. Scolateli delicatamente e conditeli con sugo di pomodoro fresco, preparato con olio d’oliva e basilico fresco. Serviteli caldi e fumanti.",
+               "ingredienti": "Per 4 persone\n\t- 500 grammi di semola di grano duro\n\t- 3 patate\n\t- 100 grammi di pecorino\n\t- menta fresca\n\t- sugo di pomodoro e basilico",
+               "immagine": "culurgiones.jpg",
+               "classificazione": {
+                   "durata": "1 Ora e 30 Minuti",
+                   "difficolta": "Difficile",
+                   "tipo": "primo"
+               }
+           },
+           {
+               "nome": "Fregula con Arselle",
+               "descrizione": "Un primo piatto che racconta il mare della Sardegna: la Fregula con Arselle. Questa pasta di semola tostata, simile al cous cous, raccoglie tutto il sapore delle arselle (vongole) fresche. Un connubio perfetto tra la terra e il mare, dove ogni chicco di fregula si insaporisce del sughetto saporito, offrendo un'esperienza di gusto unica.",
+               "preparazione": "Iniziate facendo aprire le arselle: in una padella ampia, scaldate un filo d’olio con uno spicchio d’aglio schiacciato. Aggiungete le arselle e coprite con un coperchio, lasciandole aprire a fuoco vivo. Una volta aperte, toglietele dalla padella e filtrate il liquido di cottura per eliminare eventuali residui di sabbia. \n\nNella stessa padella, aggiungete la fregula e tostatela leggermente per esaltarne il sapore. Aggiungete i pomodorini tagliati a metà e versate poco alla volta il brodo di pesce, mescolando. Continuate la cottura della fregula, aggiungendo altro brodo man mano che si asciuga. \n\nQuando la fregula è al dente, aggiungete le arselle e un po’ del loro liquido di cottura. Insaporite con prezzemolo tritato e servite subito, gustando il piatto caldo, perfetto con un bicchiere di Vermentino sardo.",
+               "ingredienti": "Per 4 persone\n\t- 300 grammi di fregula\n\t- 500 grammi di arselle (vongole)\n\t- pomodorini\n\t- prezzemolo\n\t- brodo di pesce\n\t- aglio\n\t- olio extravergine d'oliva",
+               "immagine": "fregulaarselle.jpg",
+               "classificazione": {
+                   "durata": "45 Minuti",
+                   "difficolta": "Media",
+                   "tipo": "primo"
+               }
+           },
+           {
+               "nome": "Porceddu",
+               "descrizione": "Il Porceddu è il piatto principe della cucina sarda, un maialino da latte cotto allo spiedo lentamente e insaporito con foglie di mirto. La carne tenera e succosa, con una crosticina dorata e croccante, è il frutto di ore di pazienza e attenzione, che rendono ogni boccone una vera prelibatezza.",
+               "preparazione": "Pulite il maialetto con cura e asciugatelo bene. Conditelo con abbondante sale, pepe e foglie di mirto per profumarlo. Sistemate il maialetto su uno spiedo e preparate la brace. \n\nCuocete il maialetto a fuoco lento, girandolo di tanto in tanto e bagnandolo con un rametto di mirto immerso nell'olio d’oliva per mantenerlo umido e aromatico. La cottura richiede pazienza: ci vorranno circa 3-4 ore per ottenere una carne succosa e tenera con una crosticina dorata e croccante. \n\nServite il porceddu caldo, accompagnato da patate arrosto o semplicemente da pane carasau. È perfetto per i pranzi in compagnia, meglio ancora se all’aperto, dove si può sentire il profumo della brace e del mirto.",
+               "ingredienti": "Per 8 persone\n\t- 1 maialetto intero (circa 4 kg)\n\t- sale\n\t- pepe\n\t- rametti di mirto\n\t- olio extravergine di oliva",
+               "immagine": "porceddu.jpg",
+               "classificazione": {
+                   "durata": "4 Ore",
+                   "difficolta": "Difficile",
+                   "tipo": "secondo"
+               }
+           },
+           {
+               "nome": "Seadas",
+               "descrizione": "Dolce tipico sardo, la Seadas è una deliziosa frittella ripiena di formaggio, resa irresistibile da un velo di miele che si fonde sulla superficie calda e croccante. Ogni morso offre un contrasto tra il dolce del miele e il sapore leggermente acidulo del formaggio, creando un'esperienza unica e indimenticabile.",
+               "preparazione": "Preparate l’impasto: su una spianatoia disponete la farina e aggiungete lo strutto e un po' d’acqua tiepida. Impastate fino a ottenere un composto liscio e compatto. Lasciate riposare l’impasto sotto un panno umido per una ventina di minuti. \n\nNel frattempo, tagliate il formaggio in fettine sottili. Prendete una piccola porzione di impasto, stendetela in una sfoglia sottile e disponete una fetta di formaggio al centro. Chiudete la seadas a mezzaluna, sigillando bene i bordi. \n\nScaldate abbondante olio in una padella profonda e friggete le seadas fino a quando diventano dorate e croccanti. Scolatele su carta assorbente e, ancora calde, irroratele con miele di castagno o millefiori. Servite subito, gustando la seadas ancora calda, per apprezzarne tutta la bontà.",
+               "ingredienti": "Per 4 persone\n\t- 300 grammi di farina\n\t- 100 grammi di strutto\n\t- formaggio fresco\n\t- miele",
+               "immagine": "seadas.jpg",
+               "classificazione": {
+                   "durata": "30 Minuti",
+                   "difficolta": "Media",
+                   "tipo": "dolce"
+               }
+           },
+           {
+               "nome": "Mirto",
+               "descrizione": "Il Mirto è il liquore per eccellenza della Sardegna, ottenuto dalle bacche selvatiche che crescono rigogliose nelle campagne sarde. Il suo sapore intenso e aromatico cattura i profumi della macchia mediterranea, offrendo un finale di pasto dolce e avvolgente.",
+               "preparazione": "Raccogliete le bacche di mirto, lavatele e lasciatele asciugare. Sistematele nelle bottiglie di vetro o in un ampio barattolo a chiusura ermetica. Aggiungete l’alcool, coprendo completamente le bacche, e lasciatele in infusione per circa 40 giorni in un luogo fresco e buio. Ogni tanto, ricordatevi di agitare leggermente il contenitore per favorire l’estrazione degli aromi.\n\nTrascorso il tempo di macerazione, preparate lo sciroppo: in una pentola, scaldate l’acqua e sciogliete lo zucchero a fuoco lento. Una volta ottenuto uno sciroppo chiaro e omogeneo, lasciatelo raffreddare.\n\nFiltrate l’infuso di mirto con un colino a maglie strette o con una garza, per eliminare le bacche e le impurità. Unite lo sciroppo freddo all’infuso di mirto e mescolate delicatamente. Imbottigliate il liquore e lasciatelo riposare per qualche settimana prima di gustarlo, affinché gli aromi si fondano e il sapore diventi ancora più ricco. Servite il mirto freddo, preferibilmente dopo un pasto abbondante: il suo gusto intenso e aromatico sarà la conclusione perfetta.",
+               "ingredienti": "Per 1 litro di liquore\n\t- 1 litro di alcool puro\n\t- 500 grammi di bacche di mirto\n\t- 300 ml di acqua\n\t- 300 grammi di zucchero",
+               "immagine": "mirto.jpg",
+               "classificazione": {
+                    "durata": "40 Giorni di macerazione",
+                    "difficolta": "Media",
+                    "tipo": "amaro"
+                    }
+           }
+       ]
+ }
